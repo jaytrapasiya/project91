@@ -1,0 +1,43 @@
+{
+  "allslider": [
+{
+  "contain":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took",
+  "name":"Dharuvin Nakrani",
+  "skill":"Web Designer",
+  "photo":"0jwhEGnX_400x400.jpg"
+},
+{
+  "contain":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took",
+  "name":"Dharuvin Nakrani",
+  "skill":"Web Designer",
+  "photo":"0jwhEGnX_400x400.jpg"
+}
+],
+"allportfolio": [
+  {
+    
+    "photo":"person-using.jpg",
+    "contain":"Disign"
+  },
+  {
+    "photo":"176_E39A2335.jpg",
+    "contain":"Marketing"
+  },
+  {
+    "photo":"5-book-reading.jpg",
+    "contain":"Disign"
+  },
+  {
+    "photo":"6697_wide_250x141_2x.jpg",
+    "contain":"Devlopment"
+  },
+  {
+    "photo":"This-is-.jpg",
+    "contain":"Devlopment"
+  },
+  {
+    "photo":"assam-india.jpg",
+    "contain":"Disign"
+  }
+  ]
+}
